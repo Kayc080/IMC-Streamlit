@@ -1,1 +1,1 @@
-#Site feito com Streamlit 🫠
+# Site feito com Streamlit 🤠
